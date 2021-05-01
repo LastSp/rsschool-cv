@@ -6,5 +6,5 @@
 * Skills: Swift, SwiftUI, UI-kit 
 * 5 - 
 * 6 - 
-* Moscow State University of Management 
-* Advanced
+* Education: Moscow State University of Management 
+* English: Advanced
